@@ -1,3 +1,5 @@
+package com.sam.demo;
+
 class Sample3
 {
 
